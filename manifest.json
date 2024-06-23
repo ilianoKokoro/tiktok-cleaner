@@ -5,6 +5,14 @@
     "author": "Ilian Delagrange",
     "description": "A Firefox extensions that removes the sharing query parameters to allow playback.",
 
+    "icons": {
+        "342": "/icons/square.png",
+        "128": "/icons/square-128.png",
+        "64": "/icons/square-64.png",
+        "32": "/icons/square-32.png",
+        "16": "/icons/square-16.png"
+    },
+
     "browser_specific_settings": {
         "gecko": {
             "id": "tiktok-url-cleaner@extension.com",
