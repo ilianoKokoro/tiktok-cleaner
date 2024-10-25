@@ -1,3 +1,3 @@
-# TikTok url cleaner
+# TikTok cleaner
 
-A Firefox extensions that removes the sharing query parameters to allow playback.
+A simple extension that removes the sharing query parameters of TikTok to allow playback.
