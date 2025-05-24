@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
     "name": "TikTok Cleaner",
-    "version": "2.0",
-    "author": "Ilian Delagrange",
+    "version": "2.1",
+    "author": "ilianoKokoro",
     "description": "A simple extension that removes the sharing query parameters of TikTok to allow playback.",
 
     "icons": {
